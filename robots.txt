@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://varmad07.github.io/suru_kalyani/sitemap.xml
+
